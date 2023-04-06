@@ -26,7 +26,7 @@
 
 ## :partly_sunny: Tutorials
 
-This section refers to the following [link](https://enfycius.github.io/_enfycius/docs/category/river-engineering).
+This section refers to the following [link](https://enfycius.github.io/_enfycius/docs-civil/category/river-engineering).
 
 ## :warning: License
 
