@@ -30,4 +30,4 @@ This section refers to the following [link](https://enfycius.github.io/_enfycius
 
 ## :warning: License
 
-This repository's projects are free and open-source software licensed under the [GPL-3.0](https://github.com/enfycius/Python/blob/master/LICENSE).
+This repository's projects are free and open-source software licensed under the [GPL-3.0](https://github.com/enfycius/River-Engineering/blob/master/LICENSE).
